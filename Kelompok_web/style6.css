@@ -1,0 +1,222 @@
+body{
+	background: linear-gradient(270deg, #FFFFFF 0%, #DDFFDA 100%);
+}
+
+.Heading{
+position: absolute;
+width: 299px;
+height: 64px;
+left: 635px;
+top: 145px;
+
+font-family: 'Bellota Text';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 26px;
+
+text-align: center;
+
+color: #5ECA82;
+}
+
+img{
+position: absolute;
+width: 170px;
+height: 169px;
+left: 700px;
+top: 0px;
+}
+
+.box{
+position: absolute;
+width: 500px;
+height: 380px;
+left: 550px;
+top: 250px;
+
+background: #5ECA82;
+border-radius: 31px;
+}
+
+.Heading2{
+position: absolute;
+left:655px;
+top: 250px;
+
+font-family: work sans;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 20px;
+
+
+color: #F9FAFC;
+
+}
+
+.Tanggal{
+position: absolute;
+left: 570px;
+top: 320px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.Tanggal1{
+position: absolute;
+left: 870px;
+top: 320px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.Bunga{
+position: absolute;
+left: 570px;
+top: 380px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.Persen{
+position: absolute;
+left: 870px;
+top: 380px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.PB{
+position: absolute;
+left: 570px;
+top: 440px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.PB1{
+position: absolute;
+left: 870px;
+top: 440px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.JP{
+position: absolute;
+left: 570px;
+top: 500px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.JP1{
+position: absolute;
+left: 870px;
+top: 500px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.Total{
+position: absolute;
+left: 570px;
+top: 560px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+.Total1{
+position: absolute;
+left: 870px;
+top: 560px;
+
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #1E2129;
+}
+
+button{
+font-family: work sans;
+position: absolute;
+width: 470px;
+height: 56px;
+left: 565px;
+top: 648px;
+
+background: #5ECA82;
+border-radius: 8px;
+border: 5px solid #ffff;
+color: white;
+
+cursor: pointer;
+}

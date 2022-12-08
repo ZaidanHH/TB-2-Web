@@ -1,0 +1,289 @@
+body{
+	background: linear-gradient(270deg, #FFFFFF 0%, #DDFFDA 100%);
+}
+img{
+	position: absolute;
+	left: 500px;
+	}
+
+.box{
+position: absolute;
+
+width: 380px;
+height: 703px;
+left: 680px;
+top: 20px;
+
+
+border: 3px solid #5ECA82;
+
+background: #FFFFFF;
+border-radius: 24px;
+}
+
+/*1*/
+
+.BoxTgl{
+
+z-index: 1;
+position: absolute;
+width: 95px;
+height: 16px;
+left: 720px;
+top: 60px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxTgl p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -15px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Tanggal input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 70px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*2*/
+
+.BoxWaktu{
+
+z-index: 1;
+position: absolute;
+width: 150px;
+height: 16px;
+left: 720px;
+top: 160px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxWaktu p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Waktu input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 170px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*3 */
+
+.BoxJumlah{
+
+z-index: 1;
+position: absolute;
+width: 240px;
+height: 16px;
+left: 720px;
+top: 260px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxJumlah p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Jumlah input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 270px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*4*/
+
+.BoxPembayaran{
+
+z-index: 1;
+position: absolute;
+width: 200px;
+height: 16px;
+left: 720px;
+top: 360px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxPembayaran p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Pembayaran input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 370px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*5*/
+
+.BoxDeadline{
+
+z-index: 1;
+position: absolute;
+width: 150px;
+height: 16px;
+left: 720px;
+top: 460px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxDeadline p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Deadline input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 470px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*----------------------------------------------------------------------*/
+
+.SnK input{
+position: absolute;
+width: 15px;
+height: 16px;
+left: 700px;
+top: 600px;
+
+background: #D2D5E2;
+border-radius: 5.6px;
+}
+
+.SnK p{
+position: absolute;
+width: 292px;
+height: 20px;
+left: 780px;
+top: 590px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 20px;
+
+text-align: center;
+
+color: #6E717C;
+}
+
+.Proses{
+font-family: work sans;
+position: absolute;
+width: 349px;
+height: 50px;
+left: 700px;
+top: 650px;
+
+cursor: pointer;
+
+background: #5ECA82;
+border: 1px white;
+border-radius: 8px;
+color: white;
+}

@@ -1,0 +1,116 @@
+body{
+	 
+
+background: #white;
+}
+
+@media screen and (max-width: 1440px);
+
+.Login {
+box-sizing: border-box;
+
+position: absolute;
+width: 121px;
+height: 45px;
+left: 1340px;
+top: 33px;
+
+border: 5px solid #5ECA82;
+border-radius: 100px;
+
+cursor: pointer;
+
+font-family: 'WorkSans';
+font-style: normal;
+font-size: 24px;
+line-height: 24px;
+text-align: center;
+
+color: #5ECA82;
+}
+
+.Text1{
+position: absolute;
+width: 391px;
+height: 75px;
+left: 850px;
+top: 120px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #5ECA82;
+}
+
+.Text2{
+position: absolute;
+width: 303px;
+height: 90px;
+left: 850px;
+top:220px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 45px;
+letter-spacing: -0.10em;
+
+color: #5ECA82;
+}
+
+.Pinjam{
+position: absolute;
+width: 412px;
+height: 86px;
+left: 850px;
+top: 411px;
+bottom: 22.91%;
+
+border: 1px solid #ffff;
+border-radius: 100px;
+
+cursor: pointer;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 24px;
+/* identical to box height, or 75% */
+
+text-align: center;
+background: #5ECA82;
+color:white;
+}
+
+.Pembayaran{
+position: absolute;
+width: 412px;
+height: 86px;
+left: 850px;
+top: 519px;
+
+border: 1px solid #ffff;
+border-radius: 100px;
+
+cursor: pointer;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 24px;
+/* identical to box height, or 75% */
+
+text-align: center;
+background: #5ECA82;
+color:white;
+}
+

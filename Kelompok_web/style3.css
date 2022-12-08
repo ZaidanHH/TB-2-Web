@@ -1,0 +1,263 @@
+body{
+	background: linear-gradient(270deg, #FFFFFF 0%, #DDFFDA 100%);
+}
+
+img{
+	position: absolute;
+	left: 500px;
+	}
+
+.box{
+position: absolute;
+width: 380px;
+height: 703px;
+left: 680px;
+top: 20px;
+
+border: 3px solid #5ECA82;
+border-radius: 100px;
+
+/* Gray/White */
+
+background: #FFFFFF;
+border-radius: 24px;
+}
+
+
+/*1*/
+
+.BoxNama{
+
+z-index: 1;
+position: absolute;
+width: 170px;
+height: 16px;
+left: 720px;
+top: 60px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxNama p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -15px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Nama input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 70px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*2*/
+
+.BoxNo{
+
+z-index: 1;
+position: absolute;
+width: 150px;
+height: 16px;
+left: 720px;
+top: 160px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxNo p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Telp input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 170px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*3 */
+
+.BoxJK{
+
+z-index: 1;
+position: absolute;
+width: 130px;
+height: 16px;
+left: 720px;
+top: 260px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxJK p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Jenis input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 270px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*4*/
+
+.BoxRek{
+
+z-index: 1;
+position: absolute;
+width: 150px;
+height: 16px;
+left: 720px;
+top: 360px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxRek p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Rekening input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 370px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*5*/
+
+.BoxAlamat{
+
+z-index: 1;
+position: absolute;
+width: 80px;
+height: 16px;
+left: 720px;
+top: 460px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxAlamat p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Alamat input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 470px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*-------------------------------------------------------------*/
+
+.Proses {
+position: absolute;
+width: 313.39px;
+height: 49.19px;
+left: 705px;
+top: 650px;
+
+cursor: pointer;
+
+border: 5px solid #ffff;
+border-radius: 10px;
+
+background: #5ECA82;
+color:white;
+} 

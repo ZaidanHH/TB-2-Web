@@ -1,0 +1,309 @@
+body{
+	background: linear-gradient(270deg, #FFFFFF 0%, #DDFFDA 100%);
+}
+img{
+	position: absolute;
+	left: 500px;
+	}
+
+.box{
+position: absolute;
+width: 380px;
+height: 703px;
+left: 680px;
+top: 20px;
+
+border: 3px solid #5ECA82;
+border-radius: 100px;
+
+/* Gray/White */
+
+background: #FFFFFF;
+border-radius: 24px;
+}
+
+
+/*1*/
+
+.BoxJumlah{
+
+z-index: 1;
+position: absolute;
+width: 95px;
+height: 16px;
+left: 720px;
+top: 60px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxJumlah p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -15px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Jumlah input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 70px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*2*/
+
+.BoxTempo{
+
+z-index: 1;
+position: absolute;
+width: 150px;
+height: 16px;
+left: 720px;
+top: 160px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxTempo p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Tempo input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 170px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*3 */
+
+.BoxDeadline{
+
+z-index: 1;
+position: absolute;
+width: 130px;
+height: 16px;
+left: 720px;
+top: 260px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxDeadline p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Deadline input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 270px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*4*/
+
+.BoxJP{
+
+z-index: 1;
+position: absolute;
+width: 180px;
+height: 16px;
+left: 720px;
+top: 360px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxJP p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Pembayaran input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 370px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*5*/
+
+.BoxTotal{
+
+z-index: 1;
+position: absolute;
+width: 80px;
+height: 16px;
+left: 720px;
+top: 460px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxTotal p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Total input{
+position: absolute;
+box-sizing: border-box;
+font-family: work sans;
+
+width: 344px;
+height: 55px;
+left: 700px;
+top: 470px;
+
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+/*6*/
+
+.BoxLunas{
+
+z-index: 1;
+position: absolute;
+width: 70px;
+height: 16px;
+left: 720px;
+top: 560px;
+
+/*border: 2px solid #5ECA82;*/
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.BoxLunas p{
+	font-family: work sans;
+	font-style: normal;
+	position: absolute;
+	z-index: 1;
+	top: -17px;
+	left: 10px;
+	color: #6E717C;
+}
+
+.Lunas input{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 344px;
+height: 55px;
+left:700px;
+top:570px;
+
+font-family: work sans;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+
+
+background: #F9FAFC;
+border: 1px solid rgba(110, 113, 124, 0.31);
+border-radius: 10px;
+}
+
+.Bayar {
+position: absolute;
+width: 313.39px;
+height: 49.19px;
+left: 715px;
+top: 665px;
+
+cursor: pointer;
+
+border: 5px solid #ffff;
+border-radius: 10px;
+
+background: #5ECA82;
+color:white;
+} 
